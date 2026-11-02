@@ -1,0 +1,7 @@
+build/
+*.bin
+*.elf
+*.map
+.vscode/
+Thumbs.db
+desktop.ini
